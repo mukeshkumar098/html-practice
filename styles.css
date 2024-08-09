@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>intagram login page</title>
+</head>
+<body>
+	<h1 style="text-align: center;">intagram</h1>
+	<img height="500" src="C:\Users\lenovo\OneDrive\Desktop\Pictures\Screenshot 2024-07-04 115438.png">
+	<form style="text-align:center;action="post">
+
+
+		<label for="username">enter username</label>
+		<input type="text" id="username"name="username" style=" placeholder="enter your username">
+		<br>
+		<label for="password">enter password</label>
+		<input type="text" id="password"name="password" placeholder="enter your password">
+		<br>
+		<label for="male">male</label>
+		<input type="radio"id="male" name="gender" placeholder="male">
+		<label for="female">female</label>
+		<input type="radio"id="female" name="gender"placeholder="female">
+
+
+	</form>
+
+</body>
+</html>
